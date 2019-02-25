@@ -42,3 +42,7 @@ gem 'spree_auth_devise', '~> 3.5'
 gem 'spree_gateway', '~> 3.4'
 
 gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
+
+gem 'globalize', github: 'globalize/globalize'
+gem 'spree_globalize', github: 'spree-contrib/spree_globalize', branch: 'master'
+gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
