@@ -856,7 +856,7 @@ ru:
     move_stock_between_locations: "Перемещение товаров между складами"
     move_variant_to: "Переместить %{product} в"
     move_to: ""
-    my_account: "Моя учетная запись"
+    my_account: "Мой кабинет"
     my_orders: "Мои заказы"
     name: "Наименование"
     name_on_card:
