@@ -9,6 +9,8 @@ Bundler.require(*Rails.groups)
 module Sprinter
   class Application < Rails::Application
 
+    config.assets.initialize_on_precompile = false
+
     config.i18n.default_locale = :ru
 
     config.to_prepare do
